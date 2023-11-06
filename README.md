@@ -1,5 +1,5 @@
 # CodingAssignmentTestVagrant
-## Java version : Java 17
+## Java version : OpenJdk 18
 ## Dependencies :
         junit 4.13.2
 ***The above dependency is used to trigger the test cases***
