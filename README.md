@@ -11,7 +11,7 @@
                     RecentlyPlayedSongs
 ## The test for the recently played song is written inside
     src
-        main
+        test
             java
                 com.coding.assignment
                     RecentlyPlayedSongsTest
