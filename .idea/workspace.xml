@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c5fd24-7a6b-475b-be13-3c38c4d82e7e" name="Changes" comment="First Commit">
+    <list default="true" id="88c5fd24-7a6b-475b-be13-3c38c4d82e7e" name="Changes" comment="Updated Readme file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/assignment/RecentlyPlayedSongs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/assignment/RecentlyPlayedSongs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/coding/assignment/RecentlyPlayedSongsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/coding/assignment/RecentlyPlayedSongsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.RecentlyPlayedSongsTest">
+  <component name="RunManager" selected="JUnit.RecentlyPlayedSongsTest.test3">
     <configuration name="RecentlyPlayedSongsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingAssignmentTestVagrant" />
       <extension name="coverage">
@@ -107,8 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecentlyPlayedSongsTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingAssignmentTestVagrant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coding.assignment" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.assignment.RecentlyPlayedSongsTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RecentlyPlayedSongsTest.test3" />
         <item itemvalue="JUnit.RecentlyPlayedSongsTest" />
         <item itemvalue="JUnit.RecentlyPlayedSongsTest.test" />
         <item itemvalue="JUnit.RecentlyPlayedSongsTest.test2" />
@@ -204,7 +222,39 @@
       <option name="project" value="LOCAL" />
       <updated>1699300016268</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1699300273290</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699300273290</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1699300390750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699300390750</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated Readme file">
+      <option name="closed" value="true" />
+      <created>1699338346900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699338346900</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated Readme file">
+      <option name="closed" value="true" />
+      <created>1699338559443</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699338559443</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +273,8 @@
     <MESSAGE value="Commit test code" />
     <MESSAGE value="Added readme file for the project" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Updated Readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
