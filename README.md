@@ -15,5 +15,5 @@
             java
                 com.coding.assignment
                     RecentlyPlayedSongsTest
-**The test can be run with Junit test.Right-click the RecentlyPlayedSongsTest class and click run as Junit test**
+**The test can be run with Junit test.Right-click the RecentlyPlayedSongsTest class and click run as Junit test from any IDE**
     
